@@ -1,1 +1,1 @@
- f5git .txt file is created for merging
+ f5.txt file is created for merging
