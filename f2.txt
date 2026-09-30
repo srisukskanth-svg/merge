@@ -1,1 +1,2 @@
 f2.txt file is created for merging
+update has happened in release branch
